@@ -27,7 +27,7 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 $ R --version
-R version 4.2.2 (2022-10-31) -- "Innocent and Trusting"
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
 
 $ rstudio-server version
 2022.12.0+353 (Elsbeth Geranium) for Ubuntu Bionic
